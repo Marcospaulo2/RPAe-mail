@@ -1,0 +1,5 @@
+ Seller, Products, Prices 
+Maria,  computers,  1500
+Maria,  Notebook,  3500
+Maria,  keyboard,  4600
+Maria,  Tablets,  700

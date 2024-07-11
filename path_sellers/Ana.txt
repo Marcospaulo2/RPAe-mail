@@ -1,0 +1,5 @@
+ Seller, Products, Prices 
+Ana,  computers,  1500
+Ana,  Monitor,  500
+Ana,  keyboard,  1600
+Ana,  Tablets,  700

@@ -1,0 +1,7 @@
+ Seller, Products, Prices 
+Bruna,  keyboard,  4600
+Bruna,  Tablets,  700
+Bruna,  computers,  21500
+Bruna,  Monitor,  2500
+Bruna,  keyboard,  600
+Bruna,  Tablets,  4700

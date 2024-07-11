@@ -1,0 +1,6 @@
+ Seller, Products, Prices 
+Lucas,  Mouse,  1500
+Lucas,  Monitor,  4500
+Lucas,  keyboard,  600
+Lucas,  Tablets,  7300
+Lucas,  computers,  31500

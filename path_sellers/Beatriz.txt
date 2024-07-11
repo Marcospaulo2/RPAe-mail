@@ -1,0 +1,6 @@
+ Seller, Products, Prices 
+Beatriz,  Impressora,  500
+Beatriz,  keyboard,  2600
+Beatriz,  Fones,  700
+Beatriz,  computers,  1500
+Beatriz,  Mini pc ,  500
